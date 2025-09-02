@@ -43,7 +43,7 @@
 
 
 #### 🧠 Concepts
-- Clean Architecture, SOLID Principles, CQRS, Unit Testing, Design Patterns, Identity, CI/CD
+- Clean Architecture, SOLID Principles,Design Patterns
 
 #### 🔧 Tools & Platforms
 Git, GitHub, Docker
