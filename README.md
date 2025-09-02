@@ -21,6 +21,15 @@
 <img align="right" src="https://cdn.dribbble.com/users/1708955/screenshots/4168871/programmer.gif" width="350"/>
 
 
+### 📚 Courses & Certifications
+
+- ✅ *ASP.NET Core MVC Web Development* – DevSkill
+- ✅ *Professional Programming with C#* – DevSkill
+- ✅ *Reactive Accelerator (React, Next.js)* – Learn with Summit
+- ✅ *Full Stack Web Development (MERN)* – OSTAD
+
+---
+
 
 ### 👨‍🎓 About Me
 - 🎓 Recently graduated in Computer Science & Engineering (CSE) from Comilla University with CGPA: 3.35.
