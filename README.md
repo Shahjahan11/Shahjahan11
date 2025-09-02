@@ -31,6 +31,37 @@
 ---
 
 
+### 🚀 Highlight Project: NGO Management & Tracking System
+
+> A full-stack Django platform to manage and track NGO activities, donations, volunteers, and projects efficiently.
+> 
+🔗 [GitHub Repo](https://github.com/Shahjahan11/NGO-Management-and-Tracking-System)
+
+✅ Features:
+
+- Role-based Authentication & Authorization
+- Manager & Donor Management
+- Project Tracking & Reporting Dashboard
+- Donation & Event Management
+- REST API integration for external services
+- Technologies: Django, Django REST Framework, Python, MySQL/SQLite, HTML, CSS, Bootstrap, JavaScript, AJAX, jQuery
+  
+
+💡 Skills: Full-Stack Development · Web Application Development · Django REST Framework
+
+---
+
+
+### 📦 Other Projects
+
+- 🔍 Algorithm Visualizer — Interactive React tool to learn Sorting & Searching algorithms with step-by-step animations and color-coded visualizations ([Repo](https://github.com/Shahjahan11/Algorithm_Visualizer)).
+- 💰 **Financial Tracking Management System**- Full-stack financial tracking web application ([Repo](https://github.com/Shahjahan11/Financial-Tracking-Management-System)).
+- ✅ ToDo App — Simple & responsive task manager built with React. Add, delete, and track tasks with real-time date & time display ([Repo](https://github.com/Shahjahan11/ToDo_App)).
+-🍔 Food Delivery App — Modern React.js app for menu browsing, cart management, and smooth ordering experience ([Repo](https://github.com/Shahjahan11/Food_Delivery_App)).
+
+---
+
+
 ### 📚 Courses & Certifications
 
 - ✅ *Participation in ICPC-2024* –Host(DIU)
