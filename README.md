@@ -21,16 +21,6 @@
 <img align="right" src="https://cdn.dribbble.com/users/1708955/screenshots/4168871/programmer.gif" width="350"/>
 
 
-### 📚 Courses & Certifications
-
-- ✅ *ASP.NET Core MVC Web Development* – DevSkill
-- ✅ *Professional Programming with C#* – DevSkill
-- ✅ *Reactive Accelerator (React, Next.js)* – Learn with Summit
-- ✅ *Full Stack Web Development (MERN)* – OSTAD
-
----
-
-
 ### 👨‍🎓 About Me
 - 🎓 Recently graduated in Computer Science & Engineering (CSE) from Comilla University with CGPA: 3.35.
 - 🖥️ Solved 3000+ problems across platforms like Codeforces, LeetCode, CodeChef, and LightOJ,vjudge
@@ -40,6 +30,15 @@
 - 🚀 Passionate about building scalable and clean applications, always eager to learn new technologies and contribute to real-world solutions
 ---
 
+
+### 📚 Courses & Certifications
+
+- ✅ *Participation in ICPC-2024* –Host(DIU)
+- ✅ *Professional Programming with C++* – Learn with Summit
+- ✅ *Reactive Accelerator (React)* – Learn with Summit
+- ✅ *Full Stack Web Development (django,React)* – Learn with Summit
+
+---
 
 
 ### 📬 Connect with Me
