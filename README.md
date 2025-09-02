@@ -52,14 +52,16 @@
 ---
 
 
+
 ### 📦 Other Projects
 
 - 🔍 Algorithm Visualizer — Interactive React tool to learn Sorting & Searching algorithms with step-by-step animations and color-coded visualizations ([Repo](https://github.com/Shahjahan11/Algorithm_Visualizer)).
 - 💰 **Financial Tracking Management System**- Full-stack financial tracking web application ([Repo](https://github.com/Shahjahan11/Financial-Tracking-Management-System)).
-- ✅ ToDo App — Simple & responsive task manager built with React. Add, delete, and track tasks with real-time date & time display ([Repo](https://github.com/Shahjahan11/ToDo_App)).
--🍔 Food Delivery App — Modern React.js app for menu browsing, cart management, and smooth ordering experience ([Repo](https://github.com/Shahjahan11/Food_Delivery_App)).
+- ✅ **ToDo App** — Simple & responsive task manager built with React. Add, delete, and track tasks with real-time date & time display ([Repo](https://github.com/Shahjahan11/ToDo_App)).
+- 🍔 **Food Delivery App** — Modern React.js app for menu browsing, cart management, and smooth ordering experience ([Repo](https://github.com/Shahjahan11/Food_Delivery_App)).
 
 ---
+
 
 
 ### 📚 Courses & Certifications
