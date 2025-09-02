@@ -31,9 +31,6 @@
 - 🚀 Passionate about building scalable and clean applications, always eager to learn new technologies and contribute to real-world solutions
 ---
 
-#### 🔧 Tools & Platforms
-- Git, GitHub, Docker
-
 
 
 ### 📬 Connect with Me
