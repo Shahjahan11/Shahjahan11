@@ -41,8 +41,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shah-jahan-9bb080249/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
  <a href="https://codeforces.com/profile/Bertho_codeer" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.png" width="40" height="40" alt="Codeforces"/>
-</a>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" width="40" height="40" alt="Codeforces"/></a>
   <a href="https://x.com/shahjahan2k16" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
   <a href="https://leetcode.com/u/Bertho_codeer/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
   <a href="https://www.facebook.com/shahjahan2k16/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
