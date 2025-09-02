@@ -31,6 +31,26 @@
 ---
 
 
+### 💼 Experience
+
+### 🛠 Tech Stack
+
+#### 💻 Backend
+- django, MySQL
+
+#### 🖼 Frontend
+- React.js, Bootstrap,JS
+
+
+#### 🧠 Concepts
+- Clean Architecture, SOLID Principles, CQRS, Unit Testing, Design Patterns, Identity, CI/CD
+
+#### 🔧 Tools & Platforms
+Git, GitHub, Docker
+
+---
+
+
 ### 🚀 Highlight Project: NGO Management & Tracking System
 
 > A full-stack Django platform to manage and track NGO activities, donations, volunteers, and projects efficiently.
