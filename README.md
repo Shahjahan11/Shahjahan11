@@ -31,4 +31,25 @@
 - 🚀 Passionate about building scalable and clean applications, always eager to learn new technologies and contribute to real-world solutions
 ---
 
+#### 🔧 Tools & Platforms
+- Git, GitHub, Docker
+
+
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shah-jahan-9bb080249/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://codeforces.com/profile/Bertho_codeer" target="_blank"><img src="https://img.icons8.com/windows/32/codeforces.png"/></a>
+  <a href="https://x.com/shahjahan2k16" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
+  <a href="https://leetcode.com/u/Bertho_codeer/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
+
+  <a href="https://www.facebook.com/shahjahan2k16/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+  <a href="https://medium.com/@shahjahan154196" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/></a>
+  
+</p>
+  
+
+
+
 
