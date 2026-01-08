@@ -36,7 +36,7 @@
 ### 🛠 Tech Stack
 
 #### 💻 Backend
-- C#,ASP.NET Core,SQL
+- C#,ASP.NET Core,MSSQL
 
 #### 🖼 Frontend
 - React.js, Bootstrap,JS
@@ -89,7 +89,9 @@ Git, GitHub, Docker
 - ✅ *Participation in ICPC-2024* –Host(DIU)
 - ✅ *Professional Programming with C++* – Learn with Summit
 - ✅ *Reactive Accelerator (React)* – Learn with Summit
+- ✅ *Full Stack Web Development (ASP.NET)* – DotNetMastery
 - ✅ *Full Stack Web Development (django,React)* – Learn with Summit
+
 
 ---
 
