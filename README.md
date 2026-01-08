@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Shahjahan</h1>
-<h3 align="center">💻 Full-Stack Developer | C# |ASP.NET Core| SQL | React </h3>
+<h3 align="center">💻 Full-Stack Developer | C# |ASP.NET Core| MSSQL | React </h3>
 
 
 <p align="center">
@@ -25,7 +25,7 @@
 - 🎓 Recently graduated in Computer Science & Engineering (CSE) from Comilla University with CGPA: 3.31.
 - 🖥️ Solved 3000+ problems across platforms like Codeforces, LeetCode, CodeChef, and LightOJ,vjudge
 - 🏅 Actively Participated in multiple national & Divisional level programming contests as well as ICPC-2024 and secured notable rankings
-- 💻 Skilled in C#,ASP.NET Core,EF Core,React,JS,DSA,SQL.
+- 💻 Skilled in C#,ASP.NET Core,EF Core,React,JS,DSA,MSSQL.
 - 📌 Completed multiple academic and personal projects including NGO Management & Tracking System,Algorithom Visiualizer etc.   
 - 🚀 Passionate about building scalable and clean applications, always eager to learn new technologies and contribute to real-world solutions
 ---
