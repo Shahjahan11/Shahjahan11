@@ -26,7 +26,7 @@
 - 🖥️ Solved 3000+ problems across platforms like Codeforces, LeetCode, CodeChef, and LightOJ,vjudge
 - 🏅 Actively Participated in multiple national & Divisional level programming contests as well as ICPC-2024 and secured notable rankings
 - 💻 Skilled in C#,ASP.NET Core,EF Core,React,JS,DSA,MSSQL.
-- 📌 Completed multiple academic and personal projects including NGO Management & Tracking System,Algorithom Visiualizer etc.   
+- 📌 Completed multiple academic and personal projects including  Smart Hospital Management Application,Appointment Scheduling & Management System,Algorithom Visiualizer etc.   
 - 🚀 Passionate about building scalable and clean applications, always eager to learn new technologies and contribute to real-world solutions
 ---
 
@@ -50,6 +50,48 @@ Git, GitHub, Docker
 
 ---
 
+### 🚀 Highlight Project: Smart Hospital Management Application
+
+> A full-stack healthcare management platform where real-time appointment scheduling, doctor management, and live notifications work together to create a smart hospital system.
+>
+🔗 [GitHub Repo](https://github.com/Shahjahan11/Smart_Hospital)
+
+
+✅ Features:
+
+- Role-based Authentication & Authorization (Admin, Doctor, Patient)
+- Real-time Appointment Scheduling System
+- Doctor Profile & Availability Management
+- JWT-based Secure Authentication
+- Live Notification System using SignalR
+- Scalable RESTful APIs
+- Clean & Responsive UI
+
+🛠 Technologies:.NET Core Web API,React,MSSQL,EF Core,SignalR,JWT Auth
+
+💡 Skills:
+Full-Stack Development · Real-Time Systems · Secure Authentication · REST API Design · Healthcare Application Development
+
+### 🚀 Highlight Project: Appointment Scheduling & Management System
+
+> A secure and scalable appointment scheduling platform where users can easily book appointments, view schedules in a calendar format, and manage data through authenticated APIs.
+>
+🔗 [GitHub Repo](https://github.com/Shahjahan11/Appointment-Manager_App)
+
+✅ Features:
+
+- JWT-based Authentication & Authorization
+- Appointment Booking & Management
+- Calendar-based Appointment View
+- RESTful API with Filtering & Sorting
+- Secure Data Handling
+- Modular & Maintainable Backend Architecture
+
+🛠 Technologies:.NET Core Web API,React,MSSQL,EF Core,JWT Auth
+
+💡 Skills:
+Backend API Development · Authentication & Security · Database Design · Scheduling Systems · Full-Stack Web Development
+
 
 ### 🚀 Highlight Project: NGO Management & Tracking System
 
@@ -64,7 +106,8 @@ Git, GitHub, Docker
 - Project Tracking & Reporting Dashboard
 - Donation & Event Management
 - REST API integration for external services
-- Technologies: Django, Django REST Framework, Python, MySQL/SQLite, HTML, CSS, Bootstrap, JavaScript, AJAX, jQuery
+
+🛠 Technologies: Django, Django REST Framework, Python, MySQL/SQLite, HTML, CSS, Bootstrap, JavaScript, AJAX, jQuery
   
 
 💡 Skills: Full-Stack Development · Web Application Development · Django REST Framework
