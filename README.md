@@ -26,7 +26,7 @@
 - 🖥️ Solved 3000+ problems across platforms like Codeforces, LeetCode, CodeChef, and LightOJ,vjudge
 - 🏅 Actively Participated in multiple national & Divisional level programming contests as well as ICPC-2024 and secured notable rankings
 - 💻 Skilled in C#,ASP.NET Core,EF Core,React,JS,DSA,MSSQL.
-- 📌 Completed multiple academic and personal projects including  Smart Hospital Management Application,Appointment Scheduling & Management System,Algorithom Visiualizer etc.   
+- 📌 Completed multiple academic and personal projects including  Smart Hospital Management Application,Appointment Scheduling & Management System,Real-Time Chat Application,Algorithom Visiualizer etc.   
 - 🚀 Passionate about building scalable and clean applications, always eager to learn new technologies and contribute to real-world solutions
 ---
 
